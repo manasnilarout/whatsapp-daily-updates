@@ -1,0 +1,29 @@
+{
+  "name": "whatsapp-daily-updates",
+  "version": "1.0.0",
+  "description": "A simple application to send whatsapp updates everyday.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manasnilarout/whatsapp-daily-updates.git"
+  },
+  "keywords": [
+    "Whatsapp",
+    "Twilio"
+  ],
+  "author": "Manas Ranjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manasnilarout/whatsapp-daily-updates/issues"
+  },
+  "homepage": "https://github.com/manasnilarout/whatsapp-daily-updates#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5",
+    "splitwise": "^1.0.0",
+    "twilio": "^3.39.1"
+  }
+}
